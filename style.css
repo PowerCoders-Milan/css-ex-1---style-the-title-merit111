@@ -1,11 +1,30 @@
 /* Use Selectors and attributes for the HTML design */
-h1 {
-    color:black
+.purple-font {
+    color: #6942b8;
+    text-align: center;
+    font-family: 'quicksand', sans-serif;
 }
 
-div h2 {
-    color:chocolate;
-    font-size: medium;
-    letter-spacing: 0px;
-    
+
+#title-1 {
+    color: #6942b8;
+    font-size: 95px;
+    text-decoration: line-through;
+    text-shadow: 16px, 16px rgba(0,0,0,0.1)
+    lett: 35px
+}
+
+#title-2 {
+    font-size: 65px;
+    text-decoration: underline;
+}
+
+.your style {
+    font-family:'courier new', Courier, monospace;
+    font-size: 80px;
+    text-align: center;
+}
+
+h1.merit {
+    color: royalblue;
 }
