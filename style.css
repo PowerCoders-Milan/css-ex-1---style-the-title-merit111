@@ -25,6 +25,9 @@
     text-align: center;
 }
 
-h1.merit {
+.you subtitle {
     color: royalblue;
+    font-family:'courier new', Courier, monospace;
+    font-size: 80px;
+    text-align: center;
 }
